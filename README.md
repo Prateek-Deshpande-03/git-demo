@@ -1,2 +1,2 @@
 # git-demo
-This contains demo for git commands
+This contains demo for git commands.
